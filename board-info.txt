@@ -1,2 +1,1 @@
 require board=MSM8996|lithium
-require version-modem=2018-08-02 23:19:16,8.8.30
