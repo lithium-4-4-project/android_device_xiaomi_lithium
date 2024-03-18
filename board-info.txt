@@ -1,1 +1,1 @@
-require board=MSM8996|lithium
+require board=MSM8996_A8|lithium
